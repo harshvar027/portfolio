@@ -64,7 +64,7 @@ const Navbar = () => {
         <div className="navbar-left">
           <a href="/#" className="navbar-title" data-cursor="disable">
             <img
-              src="/images/logo.png"
+              src="/icons/hv-icon.png"
               alt="Harshvardhan — Designer, Developer, Creator"
               className="navbar-logo"
             />
